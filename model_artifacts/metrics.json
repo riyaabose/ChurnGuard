@@ -1,0 +1,10 @@
+{
+  "xgb_auc": 0.9986,
+  "xgb_f1": 0.9678,
+  "rf_auc": 0.9978,
+  "rf_f1": 0.969,
+  "best_model": "XGBoost",
+  "train_samples": 8278,
+  "test_samples": 1409,
+  "churn_rate": 0.2654
+}
